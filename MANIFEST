@@ -1,0 +1,8 @@
+Changes
+lib/Object/Store.pm
+lib/Object/Store/Disk.pm
+Makefile.PL
+MANIFEST			This list of files
+README
+t/001-simple-test.t
+META.yml                                 Module meta-data (added by MakeMaker)
